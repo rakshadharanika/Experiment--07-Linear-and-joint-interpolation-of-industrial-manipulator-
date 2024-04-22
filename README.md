@@ -1,5 +1,7 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
-
+## NAME   : RAKSHA DHARANIKA V
+## REF.NO : 212223230167
+## DEP    : AI&DS
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
