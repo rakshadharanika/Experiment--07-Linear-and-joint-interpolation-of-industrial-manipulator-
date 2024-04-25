@@ -60,8 +60,6 @@ Circular Interpolation:
 
 ![image](https://github.com/Richard01072002/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/141472248/f26f2122-e78e-4a07-9838-bca85a61a10f)
 
-![image](https://github.com/Richard01072002/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/141472248/1d6c15a8-f6dd-4616-a5c5-fedf5a7c35f7)
-
 
 ![image](https://github.com/Richard01072002/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/141472248/ed38e2cf-e75c-49de-a08a-b07919283f04)
 
